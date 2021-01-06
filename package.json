@@ -6,7 +6,7 @@
   "dependencies": {
     "-": "^0.0.1",
     "D": "^1.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.18.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
